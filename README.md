@@ -1,6 +1,6 @@
 # Práctica Gestión de Seguros con Ficheros
 
-Aquí tenéis el enlace al enunciado: [Enunciado de la práctica PRO2425 - Gestión de Seguros](https://github.com/dcanoIESRafaelAlberti/PRO2425_Seguros/blob/main/README.md)
+Aquí tenéis el enlace al enunciado: [Enunciado de la práctica PRO2425 - Gestión de Seguros](https://github.com/dopemmanuel/GestionSeguros.git)
 
 * Os dejo un enlace para yo poder modificarla estos días y así que la tengáis actualizada.
 
